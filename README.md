@@ -1,4 +1,4 @@
-# Caption-Generation
+# Caption Generation
 
 Here is the code for Image Caption Generation.
 
